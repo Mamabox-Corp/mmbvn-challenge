@@ -1,1 +1,0 @@
-# mmbvn-challenge
